@@ -13,8 +13,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fsnotify/fsnotify/internal"
-	"github.com/fsnotify/fsnotify/internal/ztest"
+	"github.com/asimonov-im/fsnotify/internal"
+	"github.com/asimonov-im/fsnotify/internal/ztest"
 )
 
 // We wait a little bit after most commands; gives the system some time to sync
